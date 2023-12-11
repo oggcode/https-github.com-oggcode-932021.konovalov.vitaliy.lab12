@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "V8a6lKeiWTFt03olXlwtInvY9uClMrEhWHMGEfxRT7I=",
+  "Source": "Lab2",
+  "BasePath": "_content/Lab2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Lab2\\wwwroot",
+      "Source": "Lab2",
+      "ContentRoot": "C:\\Users\\No_Name\\Desktop\\Lab2\\Lab2\\Lab2\\wwwroot\\",
+      "BasePath": "_content/Lab2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\No_Name\\Desktop\\Lab2\\Lab2\\Lab2\\wwwroot\\css\\site.css",
+      "SourceId": "Lab2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\No_Name\\Desktop\\Lab2\\Lab2\\Lab2\\wwwroot\\",
+      "BasePath": "_content/Lab2",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\No_Name\\Desktop\\Lab2\\Lab2\\Lab2\\wwwroot\\favicon.ico",
+      "SourceId": "Lab2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\No_Name\\Desktop\\Lab2\\Lab2\\Lab2\\wwwroot\\",
+      "BasePath": "_content/Lab2",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}
